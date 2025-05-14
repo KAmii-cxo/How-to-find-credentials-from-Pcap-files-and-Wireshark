@@ -1,4 +1,4 @@
-# How-To-Find-Credentials-From-Pcap-files-and-Wireshark
+# How To Find Credentials From Pcap Files Wireshark
 
 **Objective Task**
   - I was provided with a .pcap file. This is one of the test question I get for the role as IT security analyst.
