@@ -1,7 +1,7 @@
 # How-To-Find-Credentials-From-Pcap-files-and-Wireshark
 
 **Objective Task**
-  - I was provided with a .pcap file. This is one of the exam question I get for the role analyst.
+  - I was provided with a .pcap file. This is one of the exam question I get for the role as IT security analyst.
  
 **The objective was to:**
   - Identify what the attacker successfully obtained (e.g., credentials, files).
